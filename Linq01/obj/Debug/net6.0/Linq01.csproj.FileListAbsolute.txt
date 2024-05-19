@@ -1,0 +1,14 @@
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\bin\Debug\net6.0\Linq01.exe
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\bin\Debug\net6.0\Linq01.deps.json
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\bin\Debug\net6.0\Linq01.runtimeconfig.json
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\bin\Debug\net6.0\Linq01.dll
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\bin\Debug\net6.0\Linq01.pdb
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\Linq01.AssemblyInfoInputs.cache
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\Linq01.AssemblyInfo.cs
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\Linq01.csproj.CoreCompileInputs.cache
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\Linq01.dll
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\refint\Linq01.dll
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\Linq01.pdb
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\Linq01.genruntimeconfig.cache
+D:\Aliaa Dot Net\04 Advanced C#\Session 01\Linq01\Linq01\obj\Debug\net6.0\ref\Linq01.dll
